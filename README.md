@@ -1,9 +1,11 @@
 # Home_Sales
-The goal of this challenge was the determine key metrics about home sales data using Spark and SparkSQL
+The goal of this challenge was the determine key metrics about home sales data using Spark and SparkSQL. Images for the answer to each question are in the "Images" folder in this repository.
+
 Using the data, these questions were answered: 
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 -We can see that the average price of a four-bedroom house peaked in 2021, with a slight decrease in 2022. 
+
 
 What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 -The average price of a three-bedroom, three-bathroom home fluctuated between the years of 2010 and 2017, the highest average price being in 2013. 
