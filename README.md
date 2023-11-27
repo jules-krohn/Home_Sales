@@ -1,4 +1,7 @@
 # Home_Sales
+** The first cell of the colab notebook was skipped and not used. Pyspark downloaded in the cell below it**
+
+
 The goal of this challenge was the determine key metrics about home sales data using Spark and SparkSQL. Images for the answer to each question are in the "Images" folder in this repository.
 
 Using the data, these questions were answered: 
